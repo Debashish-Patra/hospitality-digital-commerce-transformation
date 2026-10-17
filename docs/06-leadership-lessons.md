@@ -32,6 +32,8 @@ Track customer behavior, incremental contribution, fulfillment, operational load
 
 ## Reusable templates
 
+Editable Word and Excel versions of all four templates are available in the [`templates`](../templates/README.md) folder.
+
 ### A. Product opportunity brief
 
 Copy this template when assessing a new product opportunity.
