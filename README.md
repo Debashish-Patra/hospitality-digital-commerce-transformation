@@ -32,7 +32,7 @@ flowchart LR
 
 | Page | Focus | Core question |
 |---|---|---|
-| [01 — Transformation Context](pages/01-transformation-context.md) | Problem framing and strategic ambition | Why transform beyond the technology? |
+| [01 — Transformation Context](docs/01-transformation-context.md) | Problem framing and strategic ambition | Why transform beyond the technology? |
 | [02 — Operating Model & Platform](pages/02-operating-model-platform.md) | Process, requirements and migration | How do business processes translate into platform capabilities? |
 | [03 — Customer Experience & Commerce](pages/03-customer-experience-commerce.md) | Customer journeys and product discovery | How should the customer experience work end to end? |
 | [04 — Product Marketing & GTM](pages/04-product-marketing-gtm.md) | Proposition, merchandising and activation | How do capabilities become products customers understand and buy? |
