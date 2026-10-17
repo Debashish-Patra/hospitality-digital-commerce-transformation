@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-labelledby="t d">
+<title id="t">Reservation platform capability map</title><desc id="d">Eight capability domains and the question each one must resolve: search and discovery, reservation and order, product catalog, pricing and inventory, payments and adjustments, loyalty, property fulfillment, data and reporting.</desc>
+<rect width="1200" height="560" fill="#F4F7FB"/>
+<text x="48" y="58" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#1F3A5F" text-anchor="start">Capability map for a commerce platform</text>
+<text x="48" y="86" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#5B6B7C" text-anchor="start">Eight domains, each with the question it has to answer</text>
+<rect x="48" y="118" width="268" height="150" rx="12" fill="#FFFFFF" stroke="#2A9D8F" stroke-width="2"/>
+<rect x="48" y="118" width="268" height="10" rx="6" fill="#2A9D8F" stroke="#2A9D8F" stroke-width="0"/>
+<circle cx="78" cy="164" r="14" fill="#2A9D8F" stroke="none"/>
+<text x="78" y="169" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="102" y="170.0" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" fill="#1B2733" text-anchor="start">Search &amp; discovery</text>
+<text x="68" y="214.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">Are results understandable,</text>
+<text x="68" y="232.225" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">relevant and available?</text>
+<rect x="336" y="118" width="268" height="150" rx="12" fill="#FFFFFF" stroke="#2A9D8F" stroke-width="2"/>
+<rect x="336" y="118" width="268" height="10" rx="6" fill="#2A9D8F" stroke="#2A9D8F" stroke-width="0"/>
+<circle cx="366" cy="164" r="14" fill="#2A9D8F" stroke="none"/>
+<text x="366" y="169" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="390" y="170.0" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" fill="#1B2733" text-anchor="start">Reservation &amp; order</text>
+<text x="356" y="214.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">Can a customer complete a</text>
+<text x="356" y="232.225" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">coherent transaction?</text>
+<rect x="624" y="118" width="268" height="150" rx="12" fill="#FFFFFF" stroke="#2B5B84" stroke-width="2"/>
+<rect x="624" y="118" width="268" height="10" rx="6" fill="#2B5B84" stroke="#2B5B84" stroke-width="0"/>
+<circle cx="654" cy="164" r="14" fill="#2B5B84" stroke="none"/>
+<text x="654" y="169" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="678" y="170.0" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" fill="#1B2733" text-anchor="start">Product catalog</text>
+<text x="644" y="214.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">Is the product consistently</text>
+<text x="644" y="232.225" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">described across channels?</text>
+<rect x="912" y="118" width="268" height="150" rx="12" fill="#FFFFFF" stroke="#2B5B84" stroke-width="2"/>
+<rect x="912" y="118" width="268" height="10" rx="6" fill="#2B5B84" stroke="#2B5B84" stroke-width="0"/>
+<circle cx="942" cy="164" r="14" fill="#2B5B84" stroke="none"/>
+<text x="942" y="169" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="966" y="170.0" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" fill="#1B2733" text-anchor="start">Pricing &amp; inventory</text>
+<text x="932" y="214.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">Are rules current, transparent</text>
+<text x="932" y="232.225" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">and enforceable?</text>
+<rect x="48" y="292" width="268" height="150" rx="12" fill="#FFFFFF" stroke="#2B5B84" stroke-width="2"/>
+<rect x="48" y="292" width="268" height="10" rx="6" fill="#2B5B84" stroke="#2B5B84" stroke-width="0"/>
+<circle cx="78" cy="338" r="14" fill="#2B5B84" stroke="none"/>
+<text x="78" y="343" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="102" y="344.0" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" fill="#1B2733" text-anchor="start">Payments &amp; adjustments</text>
+<text x="68" y="388.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">Are payment responsibilities and</text>
+<text x="68" y="406.225" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">exceptions clear?</text>
+<rect x="336" y="292" width="268" height="150" rx="12" fill="#FFFFFF" stroke="#E9A23B" stroke-width="2"/>
+<rect x="336" y="292" width="268" height="10" rx="6" fill="#E9A23B" stroke="#E9A23B" stroke-width="0"/>
+<circle cx="366" cy="338" r="14" fill="#E9A23B" stroke="none"/>
+<text x="366" y="343" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">6</text>
+<text x="390" y="344.0" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" fill="#1B2733" text-anchor="start">Loyalty</text>
+<text x="356" y="388.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">Are rules transparent and</text>
+<text x="356" y="406.225" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">correctly executed?</text>
+<rect x="624" y="292" width="268" height="150" rx="12" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="2"/>
+<rect x="624" y="292" width="268" height="10" rx="6" fill="#1F3A5F" stroke="#1F3A5F" stroke-width="0"/>
+<circle cx="654" cy="338" r="14" fill="#1F3A5F" stroke="none"/>
+<text x="654" y="343" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">7</text>
+<text x="678" y="344.0" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" fill="#1B2733" text-anchor="start">Property fulfillment</text>
+<text x="644" y="388.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">Can the property see and fulfil</text>
+<text x="644" y="406.225" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">the commitment?</text>
+<rect x="912" y="292" width="268" height="150" rx="12" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="2"/>
+<rect x="912" y="292" width="268" height="10" rx="6" fill="#1F3A5F" stroke="#1F3A5F" stroke-width="0"/>
+<circle cx="942" cy="338" r="14" fill="#1F3A5F" stroke="none"/>
+<text x="942" y="343" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">8</text>
+<text x="966" y="344.0" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" fill="#1B2733" text-anchor="start">Data &amp; reporting</text>
+<text x="932" y="388.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">Can teams diagnose performance</text>
+<text x="932" y="406.225" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#5B6B7C" text-anchor="start">and exceptions?</text>
+<text x="48" y="508" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1F3A5F" text-anchor="start">Legend</text>
+<rect x="120" y="494" width="16" height="16" rx="3" fill="#2A9D8F" stroke="#2A9D8F" stroke-width="0"/>
+<text x="144" y="507" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6B7C" text-anchor="start">Customer-facing</text>
+<rect x="320" y="494" width="16" height="16" rx="3" fill="#2B5B84" stroke="#2B5B84" stroke-width="0"/>
+<text x="344" y="507" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6B7C" text-anchor="start">Commercial foundations</text>
+<rect x="520" y="494" width="16" height="16" rx="3" fill="#E9A23B" stroke="#E9A23B" stroke-width="0"/>
+<text x="544" y="507" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6B7C" text-anchor="start">Loyalty</text>
+<rect x="720" y="494" width="16" height="16" rx="3" fill="#1F3A5F" stroke="#1F3A5F" stroke-width="0"/>
+<text x="744" y="507" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6B7C" text-anchor="start">Delivery &amp; insight</text>
+<text x="48" y="540" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6B7C" text-anchor="start" font-style="italic">Original illustrative framework. No client data, systems or results are depicted.</text>
+</svg>

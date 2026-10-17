@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-labelledby="t d">
+<title id="t">Five connected layers of a commerce transformation</title><desc id="d">Operating model, platform, experience, commercialization and measurement, each with scope and a guiding question.</desc>
+<rect width="1200" height="600" fill="#F4F7FB"/>
+<text x="48" y="58" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#1F3A5F" text-anchor="start">Five connected layers, one outcome</text>
+<text x="48" y="86" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#5B6B7C" text-anchor="start">Scope boundaries of a hospitality commerce transformation</text>
+<rect x="48" y="118" width="780" height="78" rx="10" fill="#D9694F" stroke="#D9694F" stroke-width="0"/>
+<text x="70" y="151" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="start">Measurement</text>
+<text x="70" y="173.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Customer, commercial, operational and technical outcomes</text>
+<rect x="850" y="118" width="302" height="78" rx="10" fill="#FFFFFF" stroke="#D9694F" stroke-width="2"/>
+<text x="866" y="148.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#1B2733" text-anchor="start">Are releases connected to adoption and</text>
+<text x="866" y="165.55" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#1B2733" text-anchor="start">value?</text>
+<rect x="62" y="208" width="752" height="78" rx="10" fill="#E9A23B" stroke="#E9A23B" stroke-width="0"/>
+<text x="84" y="241" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="start">Commercialization</text>
+<text x="84" y="263.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Assortment, proposition, merchandising, channels, communication, launch</text>
+<rect x="850" y="208" width="302" height="78" rx="10" fill="#FFFFFF" stroke="#E9A23B" stroke-width="2"/>
+<text x="866" y="238.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#1B2733" text-anchor="start">Do customers understand and want what</text>
+<text x="866" y="255.55" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#1B2733" text-anchor="start">we offer?</text>
+<rect x="76" y="298" width="724" height="78" rx="10" fill="#2A9D8F" stroke="#2A9D8F" stroke-width="0"/>
+<text x="98" y="331" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="start">Experience</text>
+<text x="98" y="353.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Search, product detail, checkout, pre-arrival and in-stay interactions</text>
+<rect x="850" y="298" width="302" height="78" rx="10" fill="#FFFFFF" stroke="#2A9D8F" stroke-width="2"/>
+<text x="866" y="328.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#1B2733" text-anchor="start">Is the journey clear, honest and</text>
+<text x="866" y="345.55" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#1B2733" text-anchor="start">recoverable?</text>
+<rect x="90" y="388" width="696" height="78" rx="10" fill="#2B5B84" stroke="#2B5B84" stroke-width="0"/>
+<text x="112" y="421" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="start">Platform</text>
+<text x="112" y="443.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Reservation, product data, pricing, inventory, payments, integration</text>
+<rect x="850" y="388" width="302" height="78" rx="10" fill="#FFFFFF" stroke="#2B5B84" stroke-width="2"/>
+<text x="866" y="418.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#1B2733" text-anchor="start">Can the platform carry the required</text>
+<text x="866" y="435.55" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#1B2733" text-anchor="start">rules and transactions?</text>
+<rect x="104" y="478" width="668" height="78" rx="10" fill="#1F3A5F" stroke="#1F3A5F" stroke-width="0"/>
+<text x="126" y="511" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="start">Operating model</text>
+<text x="126" y="533.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#FFFFFF" text-anchor="start">Roles, processes, governance, exception handling, readiness</text>
+<rect x="850" y="478" width="302" height="78" rx="10" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="2"/>
+<text x="866" y="508.0" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#1B2733" text-anchor="start">Can the business actually fulfil the</text>
+<text x="866" y="525.55" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#1B2733" text-anchor="start">promise?</text>
+<text x="450" y="584" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1F3A5F" text-anchor="middle">Start with outcomes, then define the operating model and platform required to deliver them.</text>
+</svg>

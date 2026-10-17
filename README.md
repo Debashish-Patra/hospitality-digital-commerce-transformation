@@ -3,6 +3,8 @@
 
 **Portfolio focus:** Product Strategy · Digital Commerce · Product Marketing · Platform Transformation · Customer Experience · Growth Strategy
 
+![Overview of the transformation thesis: five connected steps from understanding the business to measuring the outcome, viewed through operations, technology and commerce lenses](assets/images/hero-transformation-thesis.svg)
+
 ## Overview
 
 This portfolio case study demonstrates a repeatable approach to transforming a complex hospitality business from process-led operations toward a more integrated, customer-centric digital commerce experience.
@@ -56,3 +58,5 @@ This repository is intended as a professional portfolio artifact for discussions
 ## Confidentiality note
 
 This is an independently authored, anonymized case study. It contains no client-provided screenshots, internal source documents, proprietary system diagrams or client-specific financial estimates. The frameworks and sample metrics are illustrative and should not be interpreted as historical client results.
+
+All infographics in [`assets/images`](assets/images) are original vector illustrations created for this repository. They depict generic frameworks, not any client's systems, designs, roadmaps or figures.

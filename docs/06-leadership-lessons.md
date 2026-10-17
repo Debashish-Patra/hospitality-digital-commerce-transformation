@@ -13,6 +13,8 @@ This is a reusable leadership lens, not a claim that every framework in this rep
 
 ## Five principles
 
+![The five leadership principles at a glance](../assets/images/five-leadership-principles.svg)
+
 ### 1. Start with the operating model
 Understand the work, decision rights, exceptions and service commitments before designing the future platform.
 
