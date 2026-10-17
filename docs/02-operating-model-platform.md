@@ -63,6 +63,10 @@ What must change in the way the business works for the future product experience
 | Property fulfillment | Deliver the purchased service | Can the property see and fulfil the commitment? |
 | Data and reporting | Monitor journeys and outcomes | Can teams diagnose performance and exceptions? |
 
+![Capability map showing eight platform domains, from search and discovery to data and reporting, each with the question it must resolve](../assets/images/capability-map.svg)
+
+*A generic capability map, colour-coded by role in the commerce chain.*
+
 ## Workstream 3 — Governance and execution
 
 A useful governance model connects decisions to outcomes.
@@ -87,6 +91,8 @@ A capability should not be considered ready simply because development is comple
 - Loyalty and payment implications are addressed where relevant.
 - Support, communication, training and reporting are ready.
 - Success metrics and monitoring are in place.
+
+![Definition-of-done checklist with seven conditions beyond development being complete](../assets/images/definition-of-done.svg)
 
 ## Leadership takeaway
 

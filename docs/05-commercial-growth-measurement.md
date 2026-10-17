@@ -23,6 +23,8 @@ A simple prioritization score can be calculated as:
 
 Use a consistent rating scale, such as 1–5, and document the evidence behind each score. If risk or effort needs to influence prioritization, add it explicitly rather than hiding it inside a subjective score.
 
+![Opportunity prioritization scorecard template with five dimensions rated 1 to 5 and tips for using the score well](../assets/images/opportunity-prioritization.svg)
+
 ## Build a transparent commercial model
 
 For an illustrative ancillary product, a simple funnel might be:
@@ -46,6 +48,8 @@ flowchart TD
 - **Net incremental contribution** = incremental revenue − variable costs − discounts − refunds − incremental service costs
 
 These formulas are illustrative. The exact denominator and accounting treatment should be agreed before measurement begins.
+
+![Illustrative add-on commercial funnel from eligible bookings to net incremental contribution, with formulas and guardrails but no data](../assets/images/commercial-funnel.svg)
 
 ## Measurement framework
 
@@ -77,6 +81,8 @@ These formulas are illustrative. The exact denominator and accounting treatment 
 - **Pause:** fulfillment problems, complaints, refunds or core-booking deterioration exceed agreed thresholds.
 
 No test result is claimed here; this is a proposed experiment template.
+
+![Experiment template showing the hypothesis and test design leading to three pre-agreed decisions: scale, iterate or pause](../assets/images/experiment-decision-rules.svg)
 
 ## Avoid common measurement mistakes
 

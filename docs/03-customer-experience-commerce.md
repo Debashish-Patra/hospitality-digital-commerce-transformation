@@ -14,6 +14,10 @@ flowchart LR
     E -. "relevant future engagement" .-> A
 ```
 
+![Guest lifecycle journey: five stages with a design principle and example metric for each, and six experience guardrails](../assets/images/guest-lifecycle-journey.svg)
+
+*Each stage pairs a design principle with a metric, and six guardrails keep commercial goals from undermining trust.*
+
 ## Journey design principles
 
 ### 1. Discover
@@ -76,6 +80,8 @@ A broader commerce proposition can include several product types. The examples b
 | Arrival / departure | Early arrival or later departure option | Greater schedule flexibility | Property readiness and capacity |
 | Dining / amenities | Breakfast or lounge access | Convenience and clearer trip planning | Product terms, capacity and service fulfillment |
 | Loyalty benefit | Eligible upgrade or member benefit | Recognition and value | Accurate member status and benefit rules |
+
+![Illustrative product portfolio matrix pairing each product family with its customer value and operational dependency](../assets/images/product-portfolio-dependencies.svg)
 
 ## Customer experience guardrails
 

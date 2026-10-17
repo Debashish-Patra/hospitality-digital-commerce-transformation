@@ -19,6 +19,8 @@ For each product, answer:
 - **Fulfillment:** What must happen operationally after purchase?
 - **Proof of value:** How will we know the offer is useful?
 
+![Proposition canvas with seven questions to answer for each product, plus a hypothetical flexible-arrival example](../assets/images/proposition-canvas.svg)
+
 ### Example proposition brief — flexible arrival
 
 | Element | Illustrative approach |
@@ -92,6 +94,10 @@ flowchart TD
 - Track exposure, engagement, conversion and incremental contribution.
 - Monitor fulfillment, cancellations, complaints and customer satisfaction.
 - Decide in advance what would trigger iteration, pause or scale.
+
+![Go-to-market flow in eight steps with a pilot gate, and nine launch-readiness areas to validate](../assets/images/gtm-launch-flow.svg)
+
+*The flow and the nine readiness areas at a glance; the table below sets out the validation question for each area.*
 
 ## 4. Product launch readiness
 

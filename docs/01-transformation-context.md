@@ -62,6 +62,10 @@ A transformation of this kind has several connected but distinct layers:
 - **Commercialization:** assortment, proposition, merchandising, channels, communication and launch.
 - **Measurement:** customer, commercial, operational and technical outcomes.
 
+![Five connected layers of a commerce transformation, from operating model at the base to measurement at the top, each with the guiding question it must answer](../assets/images/transformation-layers.svg)
+
+*The five layers build on each other: a gap in a lower layer shows up as friction in the layers above it.*
+
 ## Strategic principle
 
 **Start with the business and customer outcomes; then define the operating model and platform capabilities required to deliver them.**

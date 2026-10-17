@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 660" width="1200" height="660" role="img" aria-labelledby="t d">
+<title id="t">Guest lifecycle journey with principles and metrics</title><desc id="d">Five stages: imagine and research, compare and book, prepare for stay, experience the stay, post-stay and loyalty, each with a design principle and example metric, plus six experience guardrails.</desc>
+<rect width="1200" height="660" fill="#F4F7FB"/>
+<text x="48" y="58" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#1F3A5F" text-anchor="start">Designing around the guest lifecycle</text>
+<text x="48" y="86" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#5B6B7C" text-anchor="start">Journey stages, design principle and an example metric for each</text>
+<line x1="110" y1="150" x2="1090" y2="150" stroke="#D5DDE8" stroke-width="4"/>
+<circle cx="154.0" cy="150" r="22" fill="#1F3A5F" stroke="none"/>
+<text x="154.0" y="157" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<rect x="48" y="190" width="212" height="300" rx="12" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="2"/>
+<rect x="48" y="190" width="212" height="56" rx="12" fill="#1F3A5F" stroke="#1F3A5F" stroke-width="0"/>
+<text x="62" y="214.0" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="start">Imagine &amp; research</text>
+<text x="62" y="275" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#1F3A5F" text-anchor="start">PRINCIPLE · DISCOVER</text>
+<text x="62" y="298.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">Clear categories and</text>
+<text x="62" y="316.9" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">filters; results match</text>
+<text x="62" y="335.8" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">real availability</text>
+<line x1="62" y1="400" x2="246" y2="400" stroke="#D5DDE8" stroke-width="1.5"/>
+<text x="62" y="424" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#1F3A5F" text-anchor="start">EXAMPLE METRIC</text>
+<text x="62" y="446.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1B2733" text-anchor="start">Search success rate</text>
+<circle cx="374.0" cy="150" r="22" fill="#2B5B84" stroke="none"/>
+<text x="374.0" y="157" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<rect x="268" y="190" width="212" height="300" rx="12" fill="#FFFFFF" stroke="#2B5B84" stroke-width="2"/>
+<rect x="268" y="190" width="212" height="56" rx="12" fill="#2B5B84" stroke="#2B5B84" stroke-width="0"/>
+<text x="282" y="214.0" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="start">Compare &amp; book</text>
+<text x="282" y="275" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#2B5B84" text-anchor="start">PRINCIPLE · EVALUATE · BUY</text>
+<text x="282" y="298.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">Show inclusions, terms</text>
+<text x="282" y="316.9" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">and total cost before</text>
+<text x="282" y="335.8" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">commitment</text>
+<line x1="282" y1="400" x2="466" y2="400" stroke="#D5DDE8" stroke-width="1.5"/>
+<text x="282" y="424" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#2B5B84" text-anchor="start">EXAMPLE METRIC</text>
+<text x="282" y="446.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1B2733" text-anchor="start">Conversion · add-on</text>
+<text x="282" y="464.9" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1B2733" text-anchor="start">attach rate</text>
+<circle cx="594.0" cy="150" r="22" fill="#2A9D8F" stroke="none"/>
+<text x="594.0" y="157" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<rect x="488" y="190" width="212" height="300" rx="12" fill="#FFFFFF" stroke="#2A9D8F" stroke-width="2"/>
+<rect x="488" y="190" width="212" height="56" rx="12" fill="#2A9D8F" stroke="#2A9D8F" stroke-width="0"/>
+<text x="502" y="214.0" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="start">Prepare for stay</text>
+<text x="502" y="275" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#2A9D8F" text-anchor="start">PRINCIPLE · PREPARE</text>
+<text x="502" y="298.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">Offer only what the</text>
+<text x="502" y="316.9" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">property can reliably</text>
+<text x="502" y="335.8" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">deliver</text>
+<line x1="502" y1="400" x2="686" y2="400" stroke="#D5DDE8" stroke-width="1.5"/>
+<text x="502" y="424" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#2A9D8F" text-anchor="start">EXAMPLE METRIC</text>
+<text x="502" y="446.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1B2733" text-anchor="start">Pre-arrival engagement</text>
+<circle cx="814.0" cy="150" r="22" fill="#E9A23B" stroke="none"/>
+<text x="814.0" y="157" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<rect x="708" y="190" width="212" height="300" rx="12" fill="#FFFFFF" stroke="#E9A23B" stroke-width="2"/>
+<rect x="708" y="190" width="212" height="56" rx="12" fill="#E9A23B" stroke="#E9A23B" stroke-width="0"/>
+<text x="722" y="214.0" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="start">Experience the stay</text>
+<text x="722" y="275" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#E9A23B" text-anchor="start">PRINCIPLE · EXPERIENCE</text>
+<text x="722" y="298.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">Associates can see what</text>
+<text x="722" y="316.9" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">was purchased; recovery</text>
+<text x="722" y="335.8" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">path is defined</text>
+<line x1="722" y1="400" x2="906" y2="400" stroke="#D5DDE8" stroke-width="1.5"/>
+<text x="722" y="424" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#E9A23B" text-anchor="start">EXAMPLE METRIC</text>
+<text x="722" y="446.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1B2733" text-anchor="start">Service fulfillment rate</text>
+<circle cx="1034.0" cy="150" r="22" fill="#D9694F" stroke="none"/>
+<text x="1034.0" y="157" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<rect x="928" y="190" width="212" height="300" rx="12" fill="#FFFFFF" stroke="#D9694F" stroke-width="2"/>
+<rect x="928" y="190" width="212" height="56" rx="12" fill="#D9694F" stroke="#D9694F" stroke-width="0"/>
+<text x="942" y="214.0" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="start">Post-stay &amp; loyalty</text>
+<text x="942" y="275" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#D9694F" text-anchor="start">PRINCIPLE · RETURN</text>
+<text x="942" y="298.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">Explain benefits;</text>
+<text x="942" y="316.9" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">personalize only within</text>
+<text x="942" y="335.8" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#1B2733" text-anchor="start">consent rules</text>
+<line x1="942" y1="400" x2="1126" y2="400" stroke="#D5DDE8" stroke-width="1.5"/>
+<text x="942" y="424" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#D9694F" text-anchor="start">EXAMPLE METRIC</text>
+<text x="942" y="446.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1B2733" text-anchor="start">Benefit utilization ·</text>
+<text x="942" y="464.9" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1B2733" text-anchor="start">repeat</text>
+<text x="1140" y="150" font-family="Helvetica, Arial, sans-serif" font-size="1" font-weight="400" fill="#1B2733" text-anchor="start"></text>
+<text x="48" y="534" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#1F3A5F" text-anchor="start">Guardrails: commercial goals should not undermine trust</text>
+<rect x="48" y="552" width="172" height="44" rx="22" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="1.8"/>
+<text x="134" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#1F3A5F" text-anchor="middle">Transparency</text>
+<rect x="232" y="552" width="172" height="44" rx="22" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="1.8"/>
+<text x="318" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#1F3A5F" text-anchor="middle">Relevance</text>
+<rect x="416" y="552" width="172" height="44" rx="22" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="1.8"/>
+<text x="502" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#1F3A5F" text-anchor="middle">Availability</text>
+<rect x="600" y="552" width="172" height="44" rx="22" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="1.8"/>
+<text x="686" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#1F3A5F" text-anchor="middle">Consistency</text>
+<rect x="784" y="552" width="172" height="44" rx="22" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="1.8"/>
+<text x="870" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#1F3A5F" text-anchor="middle">Recoverability</text>
+<rect x="968" y="552" width="172" height="44" rx="22" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="1.8"/>
+<text x="1054" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#1F3A5F" text-anchor="middle">Privacy</text>
+<text x="48" y="626" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5B6B7C" text-anchor="start" font-style="italic">Repeat loop: relevant future engagement feeds back into inspiration.</text>
+<text x="48" y="640" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B6B7C" text-anchor="start" font-style="italic">Original illustrative framework. No client data, systems or results are depicted.</text>
+</svg>
