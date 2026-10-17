@@ -33,11 +33,11 @@ flowchart LR
 | Page | Focus | Core question |
 |---|---|---|
 | [01 — Transformation Context](docs/01-transformation-context.md) | Problem framing and strategic ambition | Why transform beyond the technology? |
-| [02 — Operating Model & Platform](pages/02-operating-model-platform.md) | Process, requirements and migration | How do business processes translate into platform capabilities? |
-| [03 — Customer Experience & Commerce](pages/03-customer-experience-commerce.md) | Customer journeys and product discovery | How should the customer experience work end to end? |
-| [04 — Product Marketing & GTM](pages/04-product-marketing-gtm.md) | Proposition, merchandising and activation | How do capabilities become products customers understand and buy? |
-| [05 — Commercial Growth & Measurement](pages/05-commercial-growth-measurement.md) | Opportunity sizing, KPIs and experiments | How should growth opportunities be prioritized and measured? |
-| [06 — Leadership Lessons](pages/06-leadership-lessons.md) | Leadership approach and reusable tools | What can other product and transformation leaders reuse? |
+| [02 — Operating Model & Platform](docs/02-operating-model-platform.md) | Process, requirements and migration | How do business processes translate into platform capabilities? |
+| [03 — Customer Experience & Commerce](docs/03-customer-experience-commerce.md) | Customer journeys and product discovery | How should the customer experience work end to end? |
+| [04 — Product Marketing & GTM](docs/04-product-marketing-gtm.md) | Proposition, merchandising and activation | How do capabilities become products customers understand and buy? |
+| [05 — Commercial Growth & Measurement](docs/05-commercial-growth-measurement.md) | Opportunity sizing, KPIs and experiments | How should growth opportunities be prioritized and measured? |
+| [06 — Leadership Lessons](docs/06-leadership-lessons.md) | Leadership approach and reusable tools | What can other product and transformation leaders reuse? |
 
 ## My leadership lens
 
